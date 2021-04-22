@@ -1,5 +1,5 @@
 
-# NarrStudio-Music
+# NaarStudio-Music
 
  Music Bot!
 
