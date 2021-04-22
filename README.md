@@ -1,8 +1,11 @@
 
+# NarrStudio-Music
+
+ Music Bot!
 
 If you have any issue feel free to contact me on Discord (https://discord.gg/Cq6RzeTP96)
 
-
+___________________________________________________________________________
 
 `
 افضل بوت متكامل فيه اي شيء تتخيله
